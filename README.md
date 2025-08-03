@@ -12,7 +12,7 @@ The City-311-Insights-Challenge aims to leverage data science techniques to proc
 - **submission.csv**
 - **anomalies.csv** 
 - **requirements.txt**
-- **report.txt**
+- **documentation.txt**
 - **dashboard.pbix** : The file is too large, please check it [here](https://drive.google.com/file/d/1LhC9c2qH8AR0-mKx39i3FPPYD9uBgP8X/view?usp=sharing)
 - [**Video demo**](https://drive.google.com/file/d/14U43gzWZZ6PYs7vOT1VAhWfcVDHBRuI3/view?usp=sharing)
 
